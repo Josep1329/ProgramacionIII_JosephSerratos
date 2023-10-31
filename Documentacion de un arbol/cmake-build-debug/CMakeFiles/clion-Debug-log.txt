@@ -1,0 +1,5 @@
+C:\Users\josep\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/josep/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\josep\OneDrive\Documentos\ProgramacionIII\Documentacion de un arbol" -B "C:\Users\josep\OneDrive\Documentos\ProgramacionIII\Documentacion de un arbol\cmake-build-debug"
+-- Configuring done (0.2s)
+CMake Error: CMake can not determine linker language for target: AVLTree.h
+-- Generating done (0.0s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

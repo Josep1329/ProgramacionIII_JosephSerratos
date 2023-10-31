@@ -3,7 +3,6 @@ project(DLList)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(DLList main.cpp
-        DLList.h
+add_executable(AVLTree.h
         AVLTree.h
         AVLTree.h)
